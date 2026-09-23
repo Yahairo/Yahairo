@@ -18,7 +18,6 @@ My main focus is **Front-End Development**, while I'm expanding my skills across
 - 🚀 Expanding my skills into Full-Stack Development
 - 🛠️ Interested in building practical and well-designed software
 - 🌱 Always learning and working on new projects
-- 🇲🇽 Based in Mexico
 
 ---
 
