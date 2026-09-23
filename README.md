@@ -76,5 +76,7 @@ More projects coming soon. 🚧
 ## 📫 Connect With Me
 
 <p>
-  <!-- LinkedIn and other professional links coming soon -->
+  <a href="https://www.linkedin.com/in/angel-yahir-suárez-fragozo-85b0b143a/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:yahirsuarez1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"></a>
 </p>
