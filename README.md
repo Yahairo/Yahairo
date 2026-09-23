@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yahir 👋
 
-<!--
-**Yahairo/Yahairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Systems Engineering Student | Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Computer Systems Engineering student from Mexico with a strong interest in Front-End Development and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building clean, functional, and user-friendly applications while continuously improving my skills and exploring new technologies.
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Systems Engineering student
+- 💻 Focused on Front-End Development
+- 🌱 Currently expanding my skills in web development and software engineering
+- 🛠️ Interested in building practical and well-designed software
+- 🇲🇽 Based in Mexico
