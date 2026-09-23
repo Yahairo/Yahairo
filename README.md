@@ -1,18 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7614610-65d4-42b4-a18f-8ab7a5d3ce86" width="100%" alt="Yahir Suarez - Front-End & Full-Stack Development" />
 </p>
-<h1 align="center">Hi 👋, I'm Yahir</h1>
-
-<h3 align="center">
-Computer Systems Engineering Student | Front-End & Full-Stack Development
-</h3>
-
 <p align="center">
   Building modern, functional, and user-friendly web applications.
-</p>
-
-<p align="center">
-  🇲🇽 Mexico
 </p>
 
 ---
