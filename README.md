@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7614610-65d4-42b4-a18f-8ab7a5d3ce86" width="100%" alt="Yahir Suarez - Front-End & Full-Stack Development" />
+</p>
 <h1 align="center">Hi 👋, I'm Yahir</h1>
 
 <h3 align="center">
